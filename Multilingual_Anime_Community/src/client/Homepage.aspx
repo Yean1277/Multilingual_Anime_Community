@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Homepage.aspx.cs" Inherits="Multilingual_Anime_Community.src.client.Homepage" %>
+﻿<%@ Page Language="C#" MasterPageFile="~/src/client/ClientMaster.Master" AutoEventWireup="true" CodeBehind="Homepage.aspx.cs" Inherits="Multilingual_Anime_Community.src.client.Homepage" %>
 
 <!DOCTYPE html>
 
